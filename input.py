@@ -9,9 +9,9 @@ else:
 print ("Nama : ",nama)
 print ("Umur : ",umur)
 if (status == "siswa"):
-    print ("Asal Sekolah : ",sekolah)
+    print ("Asal Sekolah : ", sekolah)
 else:
-    print ("Pekerjaan : ",lulus)
+    print ("Pekerjaan : ", lulus)
 
 
 
